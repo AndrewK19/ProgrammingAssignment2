@@ -1,4 +1,4 @@
-##Week 2 Assignment - Creating a makeCacheMatrix function to cache an inputted matrix then pulling this 
+###Week 2 Assignment - Creating a makeCacheMatrix function to cache an inputted matrix then pulling this 
 ##cached matrix into the second function where the cachesolve function inverses the matrix. 
 
 #cachesolve() calculates the inverse, and makeCacheMatrix() stores the new inversed matrix
